@@ -9,9 +9,7 @@ Welcome to my GitHub profile! I am a passionate and driven Data Scientist and Ma
 - **Machine Learning Frameworks**: TensorFlow, Keras, PyTorch, Scikit-Learn
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 -->For a complete list of my competition achievements, please visit my certifications page:https://zindi.africa/users/agboola_yusuf/competitions/certificate
-# 🌐 Let's Connect
 I am always open to new collaborations and opportunities in the field of data science and machine learning. Feel free to reach out to me through the following channels:
-- **Email**: yusuf.m1902547@st.futminna.edu.ng
 - **LinkedIn**:http://www.linkedin.com/in/yusuf-tajudeen-b512b227b
 Let's innovate and create something amazing together!
 Thank you for visiting my profile! Have a great day! 😊
