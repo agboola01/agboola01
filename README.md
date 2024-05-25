@@ -18,6 +18,6 @@ I am always open to new collaborations and opportunities in the field of data sc
 - **LinkedIn**:http://www.linkedin.com/in/yusuf-tajudeen-b512b227b
 Let's innovate and create something amazing together!
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+https://github-readme-stats.vercel.app/api?username=agboola01&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api/top-langs/?username=agboola01&layout=compact&theme=radical)
 Thank you for visiting my profile! Have a great day! 😊
