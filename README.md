@@ -10,5 +10,4 @@ Welcome to my GitHub profile! I am a passionate and driven Data Scientist and Ma
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 -->For a complete list of my competition achievements, please visit my certifications page:https://zindi.africa/users/agboola_yusuf/competitions/certificate
 #I am always open to new collaborations and opportunities in the field of data science and machine learning ,Let's innovate and create something amazing together!.
-- **LinkedIn**:http://www.linkedin.com/in/yusuf-tajudeen-b512b227b
 Thank you for visiting my profile! Have a great day! 😊
