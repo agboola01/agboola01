@@ -4,8 +4,6 @@ Welcome to my GitHub profile! I am a passionate and driven Data Scientist and Ma
 - 🤖 **Machine Learning Engineer** skilled in building and deploying scalable ML models.
 - 🎓 **Lifelong Learner**: Constantly expanding my knowledge and skill set through courses, certifications,  hands-on projects and competitions.
 - ⚡ Fun fact: best time  to start learning is twenty years ago ,another best time is now ,if at first you fail,call it version 1.0
-- 
-  #🔧 Skills & Tools
 - **Programming Languages**: Python, R, SQL
 - **Machine Learning Frameworks**: TensorFlow, Keras, PyTorch, Scikit-Learn
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
